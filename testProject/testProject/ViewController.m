@@ -7,9 +7,9 @@
 //
 
 #import "ViewController.h"
-#import "mainViewController.h"
+//#import "mainViewController.h"
 #import "secondViewController.h"
-#import "PresentTransition.h"
+//#import "PresentTransition.h"
 #import "DismissAnimation.h"
 @interface ViewController ()<UIViewControllerTransitioningDelegate>{
     UIWindow *window;
